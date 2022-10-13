@@ -2,7 +2,7 @@
 
 Participants:
 
-- Leader: [Name - ID]
+- Leader: [Name - ID]: Trần Nhân Đức
 - Member: [Name - ID]
 - Member: [Name - ID]
 
